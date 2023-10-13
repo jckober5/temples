@@ -1,5 +1,8 @@
 # temples
+<<<<<<< HEAD
 [https://koberstudio.com/temples/]
+=======
+>>>>>>> f7c23b47c3c5961828d41a3c152a927de0eb3132
 This project was done to help view the progress of Temples across the United States for the Church of Jesus Christ of Latter Day Saints. New Temples are announced every six months to be built, so I wanted to create a way to scrape this data from https://churchofjesuschristtemples.org/maps/ to update a visual to show all those Temples that have been built and will be built. I wanted to create a process in which this can be be done quickly and easily.
 
 To scrape this data into a csv we utilized a Python script within Jupyter Notebook. After that we read and stored the data into a MYSQL Database. This way we have it stored in two separate locations (Github and MYSQL).
